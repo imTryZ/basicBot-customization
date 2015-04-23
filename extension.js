@@ -32,9 +32,10 @@
                     'deu-lhe um biscoito que foi esquecido na chuva... eu não comeria.',
                     'te trouxe biscoitos fresquinhos... parecem deliciosos!'
                 ];
+                
                 bot.commands.cookieCommand = {
             command: 'cookie',
-            rank: 'user',
+            rank: 'mod',
             type: 'exact',
             functionality: function (chat, cmd) {
                 if (this.type === 'exact' && chat.message.length !== cmd.length) return void (0);
