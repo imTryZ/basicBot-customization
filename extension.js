@@ -17,6 +17,8 @@
 
     }
 
+
+
     localStorage.setItem("basicBotsettings", JSON.stringify({
         botName: "WorldBot",
         language: "portuguese",
