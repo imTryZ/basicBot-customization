@@ -16,14 +16,7 @@
         bot.loadChat();
 
     }
-/*bot.commands.cookieCommand.cookies =['deu-lhe um biscoito de chocolate!',
-                    'deu-lhe um biscoito pornô!',
-                    
-                ];
-                bot.commands.cookieCommand = {
-            command: 'cookie',
-            
-            
+
     localStorage.setItem("basicBotsettings", JSON.stringify({
         botName: "WorldBot",
         language: "portuguese",
