@@ -42,7 +42,7 @@
         autodisable: true,
         commandCooldown: 30,
         usercommandsEnabled: true,
-        lockskipPosition: 3,
+        lockskipPosition: 1,
         lockskipReasons: [
         	["tema", "A música não se encaixa nos padrões da sala. "],
         	["op", "Essa música está na lista OP. "],
