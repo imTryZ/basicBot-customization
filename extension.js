@@ -56,7 +56,7 @@
         afkpositionCheck: 15,
         afkRankCheck: "ambassador",
         motdEnabled: true,
-        motdInterval: 5,
+        motdInterval: 10,
         motd: ":fire: Oin, entrem no nosso grupo do Facebook http://goo.gl/8iFw1s, e Curtam nossa página http://goo.gl/gxOOmp . Bjs do TitioBot <3 :fire:",
         filterChat: true,
         etaRestriction: false,
