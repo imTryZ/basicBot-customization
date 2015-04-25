@@ -58,7 +58,7 @@
         motdEnabled: true,
         motdInterval: 10,
         motd: ":fire: Entrem no nosso grupo do facebook http://goo.gl/8iFw1s e Curtam nossa página http://goo.gl/gxOOmp, Bjos do TitioBot <3",
-        filterChat: false,
+        filterChat: true,
         etaRestriction: false,
         welcome: true,
         opLink: null,
