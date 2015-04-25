@@ -56,7 +56,7 @@
         afkpositionCheck: 15,
         afkRankCheck: "ambassador",
         motdEnabled: true,
-        motdInterval: 10,
+        motdInterval: 5,
         motd: "Corre que ta rolando o evento World Of Band's, Só bandas serão tocadas! Das 16:00 as 19:00. Me segura <3",
         filterChat: true,
         etaRestriction: false,
