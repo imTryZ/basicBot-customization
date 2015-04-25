@@ -57,7 +57,7 @@
         afkRankCheck: "ambassador",
         motdEnabled: true,
         motdInterval: 5,
-        motd: "Corre que ta rolando o evento World Of Band's, Só bandas serão tocadas! Das 16:00 as 19:00. Me segura <3",
+        motd: ":fire: Oin, entrem no nosso grupo do Facebook http://goo.gl/8iFw1s, e Curtam nossa página http://goo.gl/gxOOmp . Bjs do TitioBot <3 :fire:",
         filterChat: true,
         etaRestriction: false,
         welcome: true,
