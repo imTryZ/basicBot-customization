@@ -57,7 +57,7 @@
         afkRankCheck: "ambassador",
         motdEnabled: true,
         motdInterval: 5,
-        motd: "!roulette
+        motd: "!roulette",
         filterChat: true,
         etaRestriction: false,
         welcome: true,
