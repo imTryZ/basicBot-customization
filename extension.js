@@ -72,7 +72,7 @@
         songstats: false,
         commandLiteral: "!",
         blacklists: {
-            NSFW: "https://rawgit.com/" + fork + "/basicBot-customization/master/blacklists/ExampleNSFWlist.json",
+            NSFW: "https://github.com/imTryZ/basicBot-customization/blob/master/blacklists/BL1.json",
             OP: "https://rawgit.com/" + fork + "/basicBot-customization/master/blacklists/ExampleOPlist.json"
         }
     }));
