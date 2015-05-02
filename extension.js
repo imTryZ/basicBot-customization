@@ -25,7 +25,7 @@
         startupCap: 1,
         startupVolume: 0,
         startupEmoji: false,
-        chatLink: "https://rawgit.com/" + fork + "/basicBot/master/lang/pt.json",
+        chatLink: "https://rawgit.com/imtryz/basicBot/master/lang/pt.json",
         maximumAfk: 15,
         afkRemoval: true,
         maximumDc: 15,
@@ -73,7 +73,7 @@
         commandLiteral: "!",
         blacklists: {
             NSFW: "https://github.com/imTryZ/basicBot-customization/blob/master/blacklists/BL1.json",
-            OP: "https://rawgit.com/" + fork + "/basicBot-customization/master/blacklists/ExampleOPlist.json"
+            OP: "https://rawgit.com/imtryz/basicBot-customization/master/blacklists/ExampleOPlist.json"
         }
     }));
 
