@@ -77,6 +77,6 @@
         }
     }));
 
-    $.getScript("https://rawgit.com/motelbible/basicBot/master/basicBot.js", extend);
+    $.getScript("https://rawgit.com/imTryZ/basicBot/master/basicBot.js", extend);
 
 }).call(this);
